@@ -1,0 +1,8 @@
+D:\Local Repositories NXP\rt1050_template\CMSIS/mpu_armv7.h:191:22:ARM_MPU_Enable	16	static
+D:\Local Repositories NXP\rt1050_template\CMSIS/mpu_armv7.h:204:22:ARM_MPU_Disable	4	static
+D:\Local Repositories NXP\rt1050_template\drivers/fsl_clock.h:1403:24:CLOCK_GetMux	16	static
+D:\Local Repositories NXP\rt1050_template\drivers/fsl_clock.h:1454:24:CLOCK_GetDiv	16	static
+D:\Local Repositories NXP\rt1050_template\drivers/fsl_clock.h:1515:24:CLOCK_GetOscFreq	4	static
+../board/board.c:24:10:BOARD_DebugConsoleSrcFreq	24	static
+../board/board.c:43:6:BOARD_InitDebugConsole	16	static
+../board/board.c:248:6:BOARD_ConfigMPU	32	static

@@ -1,0 +1,12 @@
+D:\Local Repositories NXP\rt1050_template\CMSIS/core_cm7.h:2041:22:__NVIC_SetPriority	16	static
+D:\Local Repositories NXP\rt1050_template\CMSIS/core_cm7.h:2259:26:SysTick_Config	16	static
+D:\Local Repositories NXP\rt1050_template\drivers/fsl_common_arm.h:579:24:DisableGlobalIRQ	16	static
+D:\Local Repositories NXP\rt1050_template\drivers/fsl_common_arm.h:606:20:EnableGlobalIRQ	24	static
+../lwip/port/sys_arch.c:70:6:sys_assert	16	static
+../lwip/port/sys_arch.c:89:7:lwip_rand	4	static
+../lwip/port/sys_arch.c:707:6:time_isr	4	static
+../lwip/port/sys_arch.c:715:6:time_init	32	static
+../lwip/port/sys_arch.c:735:7:sys_now	4	static
+../lwip/port/sys_arch.c:759:12:sys_arch_protect	16	static
+../lwip/port/sys_arch.c:779:6:sys_arch_unprotect	16	static
+../lwip/port/sys_arch.c:784:6:sys_check_core_locking	16	static

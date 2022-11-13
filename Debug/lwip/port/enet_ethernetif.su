@@ -1,0 +1,10 @@
+D:\Local Repositories NXP\rt1050_template\phy/fsl_phy.h:147:24:PHY_Init	16	static
+D:\Local Repositories NXP\rt1050_template\phy/fsl_phy.h:191:24:PHY_GetAutoNegotiationStatus	16	static
+D:\Local Repositories NXP\rt1050_template\phy/fsl_phy.h:206:24:PHY_GetLinkStatus	16	static
+D:\Local Repositories NXP\rt1050_template\phy/fsl_phy.h:223:24:PHY_GetLinkSpeedDuplex	24	static
+../lwip/port/enet_ethernetif.c:103:6:ethernetif_phy_init	48	static
+../lwip/port/enet_ethernetif.c:174:6:ethernetif_input	24	static
+../lwip/port/enet_ethernetif.c:193:7:ethernetif_get_enet_base	32	static
+../lwip/port/enet_ethernetif.c:237:7:ethernetif_init	24	static
+../lwip/port/enet_ethernetif.c:383:6:ethernetif_add_mmac_flt_needed	16	static
+../lwip/port/enet_ethernetif.c:413:6:ethernetif_rm_mmac_flt_needed	16	static

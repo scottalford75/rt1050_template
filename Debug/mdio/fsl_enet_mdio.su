@@ -1,0 +1,12 @@
+D:\Local Repositories NXP\rt1050_template\drivers/fsl_common_arm.h:210:20:_SDK_AtomicLocalClearAndSet4Byte	48	static
+D:\Local Repositories NXP\rt1050_template\drivers/fsl_clock.h:1465:20:CLOCK_ControlGate	32	static
+D:\Local Repositories NXP\rt1050_template\drivers/fsl_clock.h:1482:20:CLOCK_EnableClock	16	static
+D:\Local Repositories NXP\rt1050_template\drivers/fsl_enet.h:973:24:ENET_ReadSMIData	16	static
+D:\Local Repositories NXP\rt1050_template\drivers/fsl_enet.h:1294:24:ENET_GetInterruptStatus	16	static
+D:\Local Repositories NXP\rt1050_template\drivers/fsl_enet.h:1313:20:ENET_ClearInterruptStatus	16	static
+../mdio/fsl_enet_mdio.c:46:13:ENET_MDIO_Init	32	static
+../mdio/fsl_enet_mdio.c:63:17:ENET_MDIO_Write	48	static
+../mdio/fsl_enet_mdio.c:87:17:ENET_MDIO_Read	40	static
+../mdio/fsl_enet_mdio.c:117:17:ENET_MDIO_WriteExt	40	static
+../mdio/fsl_enet_mdio.c:145:17:ENET_MDIO_ReadExt	40	static
+../mdio/fsl_enet_mdio.c:176:17:ENET_MDIO_WaitTransferOver	24	static
